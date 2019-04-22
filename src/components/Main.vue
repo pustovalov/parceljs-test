@@ -1,12 +1,9 @@
 <template>
   <div>
     <ul class="list-unstyled links custom-links">
-      <li v-for="link in links">
-        <a :href="link.url" target="_blank">{{ link.title }}</a>
-      </li>
-      <!-- <li>
+      <li>
         <a href="/1.pdf" target="_blank">test</a>
-      </li>-->
+      </li>
     </ul>
   </div>
 </template>
