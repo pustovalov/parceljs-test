@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.5.2",
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.3",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
     "prettier": "^1.16.0",
     "sass": "^1.17.2",
